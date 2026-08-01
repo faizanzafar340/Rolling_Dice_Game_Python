@@ -9,6 +9,7 @@ while True:
         print(f'({die1}, {die2})')
     elif choice == n:
         print("Thank you for your time")
+        break
     else:
         print("Inavlid choice")
-    break
+    
